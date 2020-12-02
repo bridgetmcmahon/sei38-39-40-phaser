@@ -7,12 +7,6 @@ Thank you for joining me today for the Phaser tutorial! I hope you all found it 
 
 I've uploaded a working version of the game, but it's by no means complete. I'd encourage you to play around with some of the variables we've used - things like gravity, speed and velocity are all easily tweaked.
 
-## The Phaser website
-
-Check out https://phaser.io/ for more info on Phaser.
-
-You can find the tutorial we did [here](https://phaser.io/tutorials/making-your-first-phaser-3-game).
-
 ## Other things to do with this game
 
 If you feel like a challenge and some extra homework (because you don't get enough of that already), here's some things you can try:
@@ -25,6 +19,12 @@ If you feel like a challenge and some extra homework (because you don't get enou
 - Enable side scrolling
 
 ...and anything else you can think of!
+
+## The Phaser website
+
+Check out https://phaser.io/ for more info on Phaser.
+
+You can find the tutorial we did [here](https://phaser.io/tutorials/making-your-first-phaser-3-game).
 
 ## Where to find me
 
